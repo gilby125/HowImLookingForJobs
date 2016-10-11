@@ -1,0 +1,15 @@
+{
+    "email": "a.lemouroux.pro@gmail.com",
+    "email_pwd": "*********",
+    "email_smtp": "smtp.gmail.com:587",
+    "country": "ch",
+    "jobs": [
+	"developer",
+	"développeur"
+    ],
+    "city": "genève",
+    "canton": "GE",
+    "postcode": "",
+    "radius": "25",
+    "delay": 300
+}
