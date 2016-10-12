@@ -26,7 +26,7 @@ with open('config.json') as config_file:
 url = 'http://www.indeed.' + config['country']
 try:
     r = requests.get(url + '/advanced_search')
-except requests.exceptrions.RequestException as e:
+except requests.exceptions.RequestException as e:
     print(e)
     sys.exit(1)
 page = r.text
