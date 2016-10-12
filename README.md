@@ -6,6 +6,7 @@ A script which automatically looks for jobs on the famous job search engine "ind
       * requests
       * beautifulsoup4
       * websockets
+      * lxml
   * phantomjs
 
 ## Usage :
