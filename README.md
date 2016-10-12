@@ -28,7 +28,7 @@ A script which automatically looks for jobs on the famous job search engine "ind
       "delay": 300                                  => the delay before the script checks for new jobs
     }
 
-  The script is launched using the two following commands in that order :
+  The script is launched using the two following commands in separate terminals in that order :
 
     > python indeed.py
     > phantomjs jsinterpreter.js
